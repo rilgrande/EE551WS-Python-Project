@@ -1,5 +1,6 @@
 # EE551WS-Python-Project
 Sensor Data Analysis, Manipulation, Export, and Plotting
+
 Roger Il Grande
 
 This project serves to provide an understanding of fundamental data analysis tools available in Python. The problem at hand to solve represents one very common to industry: data coming in from external sensors in an unorganized and un-readable format. Python is very useful for manipulating this type of data and plotting it into simple visual representations.
